@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+
+# Cypress reports
+cypress/reports/
+cypress/screenshots/
+cypress/videos/
+
+# System files
+.DS_Store
+
+# Env & logs
+.env
+*.log
+
+# VSCode settings
+.vscode/
