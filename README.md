@@ -15,7 +15,18 @@ Brief description of the project and its purpose.
 
 ## Project Structure
 
-cypress/ ├── e2e/ │ ├── ui_Test/ │ │ ├── features/ # BDD Feature files │ │ ├── step_definitions/ # Step definitions │ │ └── pages/ # POM files │ └── api_Test/ # API tests ├── fixtures/ # Static test data ├── support/ # Reusable commands & configs ├── reports/ # Test execution reports ├── videos/ # Test run recordings ├── screenshots/ # Failure screenshots
+cypress/ 
+├── e2e/ 
+│ ├── ui_Test/ 
+│ │ ├── features/ # BDD Feature files 
+│ │ ├── step_definitions/ # Step definitions 
+│ │ └── pages/ # POM files 
+│ └── api_Test/ # API tests 
+├── fixtures/ # Static test data 
+├── support/ # Reusable commands & configs 
+├── reports/ # Test execution reports 
+├── videos/ # Test run recordings 
+├── screenshots/ # Failure screenshots
 
 ## Prerequisites
 
